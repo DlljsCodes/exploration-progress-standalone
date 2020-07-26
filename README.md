@@ -11,7 +11,7 @@ This is the original proof of concept standalone program, which has since been d
 * Internet connection (to connect to [EDSM](https://www.edsm.net/))
 
 ### How to Use
-1. Get the [latest release](https://github.com/DlljsCodes/exploration-progress/releases/latest)
+1. Download [the code](https://github.com/DlljsCodes/exploration-progress-standalone/archive/master.zip)
 1. Extract the file
 1. Run standalone.py
 1. Enter the system you started at (Origin System)
